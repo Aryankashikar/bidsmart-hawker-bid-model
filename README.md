@@ -65,6 +65,21 @@ All data is publicly available.
 
 ---
 
+## Tableau dashboard
+
+An interactive market overview built from the cleaned data: 1,809 winning bids across 89 hawker centres, all in August 2026 dollars.
+
+![BidSmart Tableau dashboard](images/tableau_dashboard.png)
+
+- **Map:** every hawker centre, sized by number of awards and coloured by average winning bid.
+- **Bids by trade, region and year,** plus how popular each trade is.
+- **Best-value centres:** eligible centres ranked by price index (below 1 = cheaper than the trade's usual price).
+- **Filters** for trade and region.
+
+Download [`tableau/BidSmart_Market_Dashboard.twbx`](tableau/BidSmart_Market_Dashboard.twbx) and open it in Tableau Desktop or the free Tableau Public app.
+
+---
+
 ## Key findings
 
 **1. Trade matters most.** Holding region, size and year constant:
@@ -125,7 +140,7 @@ Premium centres such as **Maxwell (2.42)**, **Amoy Street (1.64)** and **Newton 
 ## Tools
 
 - **Microsoft Excel:** Pivot Tables, Analysis ToolPak (regression), dynamic lookup and array formulas (COUNTIFS, AVERAGEIFS, MEDIAN(IF), INDEX/MATCH), named ranges, data validation
-- **Tableau:** market overview dashboard *(coming soon)*
+- **Tableau:** interactive market dashboard (map of hawker centres, bids by trade, region and year, best-value centre shortlist)
 
 ---
 
