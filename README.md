@@ -157,4 +157,4 @@ Download [`data/G6T4_BidSmart_Model_S1.xlsx`](data/G6T4_BidSmart_Model_S1.xlsx) 
 ## Team
 
 Team G6T4, COR1305 Modeling & Data Analytics, Singapore Management University.
-Stage 1 and data cleaning by **Aryan Kashikar**. Stages 2–4 (bid optimiser, scenarios and dashboard) by teammates.
+Stage 1 and data cleaning by **Aryan Kashikar**. Stages 2–4 (bid optimiser, scenarios and decision dashboard) are in progress by teammates.
